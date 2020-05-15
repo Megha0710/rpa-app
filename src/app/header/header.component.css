@@ -1,0 +1,28 @@
+.rpa-header{
+    background-color: #94d500;
+}
+.main-logo{
+    background-color: #94d500;
+}
+.main-heading{
+    background-color: #94d500;
+    margin-bottom: 35px;
+    
+}
+.main-heading h1{
+    margin-bottom: 35px;
+    margin-left: 122px;
+}
+.page-header h1{
+   
+    padding-top: 10px;
+    font-weight: bold;
+}
+.nav-tabs li a{
+    font-size: 18px;
+    line-height: 26px;  
+}
+
+.logo{
+    max-width: 50%;
+}

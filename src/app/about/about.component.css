@@ -1,0 +1,107 @@
+.rpalive-page .banner .banner-wraps {
+  background: url(../../assets/images/pngtree-technology-electronic-financial-background-image_5922.jpg) no-repeat center center;
+  background-size: cover;
+  min-height: 350px;
+}
+
+.container-wrap, .container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+    width: auto;
+}
+
+.rpalive-page .banner .banner-wrap-inner h2.subhead {
+  font-size: 18px;
+  margin-top: 0;
+  text-transform: none;
+  line-height: 32px;
+  color: #fff;
+}
+
+.rpalive-page .banner .banner-wrap-inner {
+  padding-top: 60px;
+}
+
+.banner .banner-wrap-inner {
+  z-index: 9;
+  position: relative;
+  padding-top: 140px;
+}
+
+.rpalive-page .banner .banner-wrap-inner h1 {
+  color: #ffbc03;
+  font-weight: 300;
+}
+
+.rpalive-page .rpaproductivity-sec {
+  text-align: left;
+}
+
+.rpaproductivity-sec {
+    padding: 40px 0 0 0;
+}
+
+.rpalive-page h3 {
+  color: #000;
+}
+
+.rpalive-page h3 {
+  margin: 15px 0;
+  text-align: center;
+}
+
+p {
+  line-height: 26px;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.morebtn {
+  margin-top: 30px;
+}
+
+.rpaproductivity-box {
+  text-align: center;
+  background-color: #fafafa;
+  padding: 25px;
+  position: relative;
+  margin-top: 30px;
+  min-height: 352px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.3);
+}
+
+@media (min-width: 768px){
+.col-sm-3 {
+    width: 25%;
+    float:left;
+}
+}
+
+.row:before {
+  display: table;
+  content: " ";
+}
+
+.rpaproductivity-box img{
+  max-height: 50%;
+  max-width: 50%;
+}
+
+.livedemoform{
+  width: 500px;
+    background-color: rgba(0,0,0,0.05);
+    position: absolute;
+    left: 32%;
+    border: 1px #8080805e;
+    border-radius: 9px;
+}
+
+.livedemoform input{
+  margin-left: 20px;
+  max-width: 90%;
+}
